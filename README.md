@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 in the [Weitz group](https://weitzgroup.umd.edu). My research is highly interdisciplinary, covering the broad areas of Physics and Deep Learning based-inverse modeling for dynamical systems. 
+
+
+
 <!--
 **RaunakDey/RaunakDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
