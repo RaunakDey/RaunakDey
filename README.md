@@ -15,7 +15,7 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDey&layout=compact&theme=chartreuse-dark)
 
-![Profile Visits](https://komarev.com/ghpvc/?username=RaunakDey&color=blue)
+![Profile Visits (since Aug 2024)](https://komarev.com/ghpvc/?username=RaunakDey&color=blue)
 
 
 <!--
