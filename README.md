@@ -10,7 +10,8 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 
 ## GitHub Stats
 
-![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaunakDey&show_icons=true&theme=chartreuse-dark)
+<!--![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaunakDey&show_icons=true&theme=chartreuse-dark)
+-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDey&layout=compact&theme=chartreuse-dark)
 
