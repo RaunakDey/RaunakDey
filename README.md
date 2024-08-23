@@ -7,6 +7,13 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 - 👯 I’m looking to collaborate on Bayesian inference for dynamical systems.  
 - ⚡ Fun fact: 'stressed' spelled backwards is 'desserts' 😄
 - 🇮🇳 Now I live in the US, but I come from the beautiful city of Kolkata in India.
+
+## GitHub Stats
+
+![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaunakDey&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDey&layout=compact&theme=radical)
+
 <!--
 **RaunakDey/RaunakDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
