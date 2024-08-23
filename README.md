@@ -17,8 +17,6 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=RaunakDey&color=blue)
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RaunakDey&theme=github)]
-
 
 <!--
 **RaunakDey/RaunakDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
