@@ -5,7 +5,7 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 - 📫 Please feel free to reach me out at rdey-at-umd-dot-edu with questions and comments. 
 - 🔭 I’m currently working on Latent space modeling for dynamical systems.
 - 👯 I’m looking to collaborate on Bayesian inference for dynamical systems.  
-- ⚡ Fun fact: 'stressed' spelled backwards is 'desserts' 😄
+- ⚡ Fun fact: I once starred in a commercial for a start-up! 😇
 - 🇮🇳 Now I live in the US, but I come from the beautiful city of Kolkata in India.
 
 ## GitHub Stats
