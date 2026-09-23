@@ -6,7 +6,6 @@ I am Raunak, a PhD student at the University of Maryland, College Park 🇺🇸 
 - 🔭 I’m currently working on Latent space modeling for dynamical systems.
 - 👯 I’m looking to collaborate on Bayesian inference for dynamical systems.  
 - ⚡ Fun fact: I once starred in a commercial for a start-up! 😇
-- 🇮🇳 Now I live in the US, but I come from the beautiful city of Kolkata in India.
 
 
 
